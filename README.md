@@ -4,7 +4,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Deepanshu Saxena](https://www.linkedin.com/in/deepanshu-saxena-595509228/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hi there, I'm <a href="https://www.linkedin.com/in/deepanshu-saxena-595509228/" target="_blank">[Deepanshu Saxena]</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Hi, My name is Deepanshu Saxena, and I'm a technology enthusiast that enjoys learning new skills. I've learned C and I am currently learning Web Development and Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
@@ -72,4 +72,5 @@ Hi, My name is Deepanshu Saxena, and I'm a technology enthusiast that enjoys lea
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/deepsh_0)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-deepanshu" alt="Deepanshu's github stats" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-deepanshu" alt="Deepanshu's github stats" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-deepanshu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+
