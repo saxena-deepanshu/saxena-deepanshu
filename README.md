@@ -70,7 +70,6 @@ Hi, My name is Deepanshu Saxena, and I'm a technology enthusiast that enjoys lea
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Deepanshus007) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepanshu-saxena-595509228/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/deepsh_0)
-</p>
-
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-deepanshu" alt="Deepanshu's github stats" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-deepanshu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
-
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-deepanshu" alt="Deepanshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena-deepanshu&show_icons=true&theme=radical" alt="Deepanshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-deepanshu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> |
+ </p>
