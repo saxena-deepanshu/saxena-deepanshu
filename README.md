@@ -13,6 +13,7 @@ Hi, My name is Deepanshu Saxena, and I'm a technology enthusiast that enjoys lea
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
 - 👨🏽‍💻 {( Currently growing my skillset in Web Development and C)}
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saxena-deepanshu&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
