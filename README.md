@@ -73,5 +73,5 @@ Hi, My name is Deepanshu Saxena, and I'm a technology enthusiast that enjoys lea
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=saxena-deepanshu" alt="Deepanshu's github stats" /> | 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-deepanshu&theme=vue-dark&hide_border=false" alt="Deepanshu's github stats" /></a> | 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="![saxena-deepanshu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-deepanshu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxena-deepanshu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" /></a> |
  </p>
